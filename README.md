@@ -1,4 +1,5 @@
-# Student-Athletes
+# Student-Athletes 
+:runner: :swimmer: :bicyclist: :snowboarder: :surfer: :horse_racing: :football: :basketball: :soccer: :baseball: :tennis: :rugby_football: :bowling: :golf:
 ### Parallel Arrays
 5 parallel arrays pre-populated with dummy data, including two students with the same name but different student IDs
 
